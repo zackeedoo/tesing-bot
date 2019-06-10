@@ -1,0 +1,15 @@
+{
+  "name": "mob",
+  "version": "1.0.0",
+  "description": "Coded by a hitman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitman Zack",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "opusscript": "0.0.6"
+  }
+}
